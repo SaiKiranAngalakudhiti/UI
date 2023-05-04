@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2c0c940.css",
+    "main.js": "/static/js/main.8fc5ae39.js",
+    "static/js/787.2404f654.chunk.js": "/static/js/787.2404f654.chunk.js",
+    "static/media/Heavy Snow.png": "/static/media/Heavy Snow.a1bab4977c6b746bbe1b.png",
+    "static/media/Partly Cloudy.png": "/static/media/Partly Cloudy.a1ebbdb467a816c71b08.png",
+    "static/media/Cloudy.png": "/static/media/Cloudy.03f130d47ee549381ea3.png",
+    "static/media/Sleet.png": "/static/media/Sleet.e73dca873438e537e526.png",
+    "static/media/Thunder.png": "/static/media/Thunder.4c34292a0d8af2574318.png",
+    "static/media/Light Rain.png": "/static/media/Light Rain.d098d5bd2d83618f9a7f.png",
+    "static/media/Light Snow.png": "/static/media/Light Snow.d8740d07663cc9530897.png",
+    "static/media/axios.cjs": "/static/media/axios.ed9a1e9804f9a76743bb.cjs",
+    "static/media/Heavy Rain.png": "/static/media/Heavy Rain.54df527e54eea141c687.png",
+    "static/media/Moderate Snow.png": "/static/media/Moderate Snow.3190cd4d6b0f6bf582f5.png",
+    "static/media/Clear Sky.png": "/static/media/Clear Sky.b9a187440c6c127890af.png",
+    "static/media/Freezing Rain.png": "/static/media/Freezing Rain.e22a54b5b4a5ff085fc2.png",
+    "static/media/wind_main.png": "/static/media/wind_main.786090a55742b01f2b6e.png",
+    "static/media/temp_main.png": "/static/media/temp_main.87c48b359119fb4ce9fd.png",
+    "static/media/feelslike_main.png": "/static/media/feelslike_main.f4a495159fe4a19dd887.png",
+    "static/media/Mostly Cloudy.png": "/static/media/Mostly Cloudy.80594e9b1f9aa5b03c81.png",
+    "static/media/Moderate Rain.png": "/static/media/Moderate Rain.ff5cc32d1a5f5b8c0fa4.png",
+    "index.html": "/index.html",
+    "main.c2c0c940.css.map": "/static/css/main.c2c0c940.css.map",
+    "main.8fc5ae39.js.map": "/static/js/main.8fc5ae39.js.map",
+    "787.2404f654.chunk.js.map": "/static/js/787.2404f654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c0c940.css",
+    "static/js/main.8fc5ae39.js"
+  ]
+}
